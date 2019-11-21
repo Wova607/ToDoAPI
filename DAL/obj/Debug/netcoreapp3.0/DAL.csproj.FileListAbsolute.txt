@@ -8,3 +8,13 @@ D:\Шаг\ASP.NET_CORE\Home\ToDoApi\ToDoAPI\DAL\obj\Debug\netcoreapp3.0\DAL.dll
 D:\Шаг\ASP.NET_CORE\Home\ToDoApi\ToDoAPI\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
 D:\Шаг\ASP.NET_CORE\Home\ToDoApi\ToDoAPI\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
 D:\Шаг\ASP.NET_CORE\Home\ToDoApi\ToDoAPI\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\Шаг\ANGULAR\Home\ToDo+Angular\DAL\obj\Debug\netcoreapp3.0\DAL.pdb

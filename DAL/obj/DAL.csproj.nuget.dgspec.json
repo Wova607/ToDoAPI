@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebAPI-dev\\DAL\\DAL.csproj": {}
+    "d:\\Шаг\\ANGULAR\\Home\\ToDo+Angular\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "D:\\WebAPI-dev\\DAL\\DAL.csproj": {
+    "d:\\Шаг\\ANGULAR\\Home\\ToDo+Angular\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebAPI-dev\\DAL\\DAL.csproj",
+        "projectUniqueName": "d:\\Шаг\\ANGULAR\\Home\\ToDo+Angular\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\WebAPI-dev\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Lenovo G560\\.nuget\\packages\\",
-        "outputPath": "D:\\WebAPI-dev\\DAL\\obj\\",
+        "projectPath": "d:\\Шаг\\ANGULAR\\Home\\ToDo+Angular\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\krpsr\\.nuget\\packages\\",
+        "outputPath": "d:\\Шаг\\ANGULAR\\Home\\ToDo+Angular\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo G560\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\krpsr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
