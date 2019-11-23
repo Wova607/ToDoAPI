@@ -9,7 +9,7 @@ using ToDoAPI.Services;
 
 namespace ToDoAPI.Controllers
 {
-    [Route("[controller]")]
+    [Route("[controller]/[action]")]
     [ApiController]
     public class CategoryController : ControllerBase
     {
@@ -21,12 +21,13 @@ namespace ToDoAPI.Controllers
         }
 
         [HttpGet]
+        
         public IEnumerable<CategoryModel> GetAllCategory()
         {
            return catService.GetAllCategory().ToList();
         }
 
-        [HttpPost]
+        [HttpPost("{name}")]
         public void AddCategory(string name)
         {
             catService.AddCategory(name);
